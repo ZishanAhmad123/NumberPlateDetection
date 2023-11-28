@@ -1,0 +1,1 @@
+# NumberPlateDetection Using OpenCv Tesseract 
